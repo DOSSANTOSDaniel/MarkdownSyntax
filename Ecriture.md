@@ -19,3 +19,8 @@ Texte standard
 <details><summary>Quelques informations.</summary>
 . Un marteau <br>
 </details>
+
+# Définitions
+
+Ordinateur
+: Un ordinateur est un système de traitement de l'information programmable.
