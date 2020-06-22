@@ -1,7 +1,7 @@
-# Code en Javascript
+# Code en Bash
 
----bash
+```bash
 #!/bin/bash
 echo "Bonjour !"
 uptime
----
+```
