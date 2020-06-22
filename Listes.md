@@ -1,3 +1,9 @@
+# Simple liste
+
+- Liste 1
+- Liste 2
+* Liste 3
+
 # liste hiérarchique
 
 - Configurations <br>
