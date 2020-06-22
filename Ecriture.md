@@ -17,7 +17,7 @@ Texte standard
 . Un marteau <br>
 </details>
 
-- Features - <br>
+- Features <br>
 · Search function to find memos in one shot
 · Supports markdown notation <br>
 · Support for Mac, Windows, Linux, iOS, Android <br>
