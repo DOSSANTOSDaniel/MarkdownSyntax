@@ -4,8 +4,8 @@
 
 # Lien automatique
 
-<https://wprock.fr/blog/>
+<https://tpdaniel.fr/blog/>
 
 # Lien email
 
-<exemple@wprock.fr>
+<exemple@tpdaniel.fr>
