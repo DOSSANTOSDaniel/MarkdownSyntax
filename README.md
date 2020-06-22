@@ -1,2 +1,2 @@
 # MarkdownSyntax
-Aide mémoire pour la syntax Markdown
+Aide mémoire pour la syntaxe Markdown
