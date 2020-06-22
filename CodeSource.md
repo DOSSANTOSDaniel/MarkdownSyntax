@@ -29,3 +29,7 @@ education: |
     3 A-Levels
     BSc in the Internet of Things
 ```
+
+# Ligne de code
+
+`alert("Hello wpRock");`
