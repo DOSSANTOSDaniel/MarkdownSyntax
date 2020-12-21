@@ -15,9 +15,3 @@
 | regarder une série | 22 heures |100 |
 
 Caractère d'échappement : "ALTGr + 7"
-
-Exemple :
-
-|| Description |
-|:---|:---|
-| cmd1 `||` cmd2 | "ou logique" |
